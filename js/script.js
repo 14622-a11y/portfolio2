@@ -132,6 +132,6 @@ if(footer){
 
 footer.innerHTML =
 
-`© ${new Date().getFullYear()} Portfolio Website | จัดทำโดย ชื่อ-นามสกุล`;
+`© ${new Date().getFullYear()} Portfolio Website | จัดทำโดย ชื่อธนกฤตนามสกุลพงษ์ศรี`;
 
 }
